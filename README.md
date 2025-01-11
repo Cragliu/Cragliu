@@ -1,16 +1,20 @@
-## Hi there 👋
-
-<!--
-**Cragliu/Cragliu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?text=Hey Everyone!&animation=fadeIn&type=waving&color=gradient&height=100"/>
+</p>
+<br>
+<p>
+  A short list of what I'm currently studing/learning:
+ - Database & DBMS;
+ - Servlet Java;
+ - Server setup & upkeep;
+ - Network security.
+</p>
+<br>
+<p>
+  Some things i know:
+ - C++;
+ - Basic Java;
+ - HTML, CSS, Javascript;
+ - Network setup & upkeep;
+ - A bit of phyton (small project to cheat on typing test against my friend);
+</p>
